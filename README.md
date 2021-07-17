@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samuel Alejandro Paredes
-- 👀 I’m interested in continuing to learn especially with highly technological groups...
+- 👀 I'm interested in continuing to learn, particularly with technologically advanced groups.
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on everyone
 - 📫 How to reach me from LinkedIn profile: https://bit.ly/2UnPE37
