@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samuel Alejandro Paredes
+- 👋 Hi, I’m Samuel Paredes
 - 👀 I'm interested in continuing to learn, particularly with technologically advanced groups.
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on everyone
